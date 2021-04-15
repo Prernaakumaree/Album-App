@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Album App</string>
+
+    <string name="load_album_error_message">Could not load album. Try again later</string>
+</resources>
